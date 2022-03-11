@@ -1,0 +1,16 @@
+{
+  "name": "Homework_10_TeamProfileGenerator",
+  "lockfileVersion": 2,
+  "requires": true,
+  "script": {
+    "start": "node server.js",
+    "test": "./_test_"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  }
+}
